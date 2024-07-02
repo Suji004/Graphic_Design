@@ -1,2 +1,2 @@
 purpose:
-My Samples of Graphic Designing 
+Graphic Designing Sample projects
