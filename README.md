@@ -1,3 +1,2 @@
-
-My Samples
-Graphic Designing 
+purpose:
+My Samples of Graphic Designing 
