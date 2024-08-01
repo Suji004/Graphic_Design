@@ -1,5 +1,5 @@
 purpose:
-Graphic Designing Sample projects
+Graphic Designing Sample Works
 
 
 
@@ -8,5 +8,4 @@ Graphic Designing Sample projects
 
 
 
-Theme:
-Fashion Design
+
